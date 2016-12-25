@@ -1,5 +1,9 @@
 # Various Atom Notes and Snippets
 
+## API Docs
+
+https://atom.io/docs/api
+
 ## Installing packages from GitHub
 
 ```
