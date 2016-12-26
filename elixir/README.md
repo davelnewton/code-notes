@@ -9,3 +9,11 @@ Two options; using logic operators:
 Using `if` macro:
 
     if condition, do: (truthy value), else: (falsey value)
+
+## Requiring files
+
+```elixir
+defmodule TodoList do
+  # require MultiDict
+  Code.require_file "multi_dict.ex", __DIR__
+```
