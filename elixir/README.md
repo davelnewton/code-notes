@@ -1,10 +1,19 @@
 ## Module Introspection
 
+### List Functions
+
 https://hexdocs.pm/elixir/Module.html#__info__/1
 
 ```elixir
 > SomeModule.__info__(:functions)
 [some_function: n, other_function: n] # Where `n` is function arity
+```
+
+### Module Metadata
+
+```elixir
+> Todo1.__info__(:attributes)
+[vsn: [93241567868840991907522900278845287925], behaviour: [GenServer]]
 ```
 
 ## Ternary
