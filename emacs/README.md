@@ -6,6 +6,10 @@ https://www.emacswiki.org/emacs/NeoTree
 
 http://www.alchemist-elixir.org/
 
+## Completion
+
+http://company-mode.github.io/
+
 ## Base Functionality
 
 ### Config File
