@@ -1,4 +1,11 @@
-# Elixir Notes and Snippets
+## Module Introspection
+
+https://hexdocs.pm/elixir/Module.html#__info__/1
+
+```elixir
+> SomeModule.__info__(:functions)
+[some_function: n, other_function: n] # Where `n` is function arity
+```
 
 ## Ternary
 
