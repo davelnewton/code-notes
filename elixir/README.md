@@ -2,6 +2,10 @@
 
 https://elixirnation.io/
 
+## Articles/Etc.
+
+http://www.akitaonrails.com/2015/11/22/observing-processes-in-elixir-the-little-elixir-otp-guidebook
+
 ## Introspection
 
 ## Observer
