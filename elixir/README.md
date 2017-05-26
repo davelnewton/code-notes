@@ -2,7 +2,13 @@
 
 https://elixirnation.io/
 
-## Module Introspection
+## Introspection
+
+## Observer
+
+```elixir
+> :observer.start
+```
 
 ### List Functions
 
