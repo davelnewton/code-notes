@@ -1,5 +1,9 @@
 # Useful Libraries
 
+## GUID
+
+https://github.com/zyro/elixir-uuid
+
 ## ES6-like Short Maps
 
 https://github.com/whatyouhide/short_maps
