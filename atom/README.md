@@ -1,5 +1,9 @@
 # Various Atom Notes and Snippets
 
+## Packages
+
+* https://atom.io/packages/split-diff
+
 ## API Docs
 
 https://atom.io/docs/api
