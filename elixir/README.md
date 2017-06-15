@@ -57,3 +57,9 @@ defmodule TodoList do
 * http://joeellis.la/iex-remsh-shells/
 * https://broot.ca/erlang-remsh-is-dangerous
 * http://sgeos.github.io/elixir/erlang/observer/2016/09/16/elixir_erlang_running_otp_observer_remotely.html
+
+## Default Args
+
+```elixir
+def some_function(param \\ "default-value"), do: IO.puts(param)
+```
