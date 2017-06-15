@@ -51,3 +51,9 @@ defmodule TodoList do
   # require MultiDict
   Code.require_file "multi_dict.ex", __DIR__
 ```
+
+## Connect to Running Elixir App
+
+* http://joeellis.la/iex-remsh-shells/
+* https://broot.ca/erlang-remsh-is-dangerous
+* http://sgeos.github.io/elixir/erlang/observer/2016/09/16/elixir_erlang_running_otp_observer_remotely.html
