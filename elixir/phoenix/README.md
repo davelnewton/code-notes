@@ -1,5 +1,8 @@
 # Phoenix Notes
 
+## Plugs
+
+http://www.phoenixframework.org/docs/understanding-plug
 ## Authentication
 
 * https://github.com/smpallen99/coherence
