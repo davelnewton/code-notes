@@ -1,9 +1,10 @@
 # Useful Libraries
 
-| What | Where |
-| ---- | ----- |
-| GUID | https://github.com/zyro/elixir-uuid |
-| JSON | https://github.com/devinus/poison |
+| What | Where | More |
+| ---- | ----- | ---- |
+| GUID | https://github.com/zyro/elixir-uuid | |
+| HTTP | https://github.com/edgurgel/httpoison | |
+| JSON | https://github.com/devinus/poison | |
 
 ## ES6-like Short Maps
 
