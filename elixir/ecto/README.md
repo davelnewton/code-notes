@@ -1,5 +1,11 @@
 # Ecto Notes
 
+# Resources
+
+* https://github.com/elixir-ecto/ecto
+* https://hexdocs.pm/ecto/getting-started.html
+* https://hexdocs.pm/ecto/Ecto.html
+
 ## Migrations
 
 * https://hexdocs.pm/ecto/Mix.Tasks.Ecto.Gen.Migration.html
