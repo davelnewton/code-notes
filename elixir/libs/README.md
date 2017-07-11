@@ -11,6 +11,7 @@
 | Fake data/lorem | https://github.com/igas/faker | |
 | I18N/L10N | https://github.com/elixir-lang/gettext | |
 | Authorization | https://github.com/schrockwell/bodyguard | |
+| Time/Date | https://github.com/bitwalker/timex | |
 
 ## ES6-like Short Maps
 
