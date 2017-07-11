@@ -5,6 +5,7 @@
 * https://github.com/elixir-ecto/ecto
 * https://hexdocs.pm/ecto/getting-started.html
 * https://hexdocs.pm/ecto/Ecto.html
+* https://groups.google.com/forum/#!forum/elixir-ecto
 
 ## Migrations
 

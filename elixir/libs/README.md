@@ -5,11 +5,12 @@
 | GUID | https://github.com/zyro/elixir-uuid | |
 | HTTP | https://github.com/edgurgel/httpoison | |
 | JSON | https://github.com/devinus/poison | |
-| Auth | https://github.com/ueberauth/guardian
+| Authentication | https://github.com/ueberauth/guardian
 | Test data | https://github.com/thoughtbot/ex_machina | |
 | Code quality | https://github.com/rrrene/credo | |
 | Fake data/lorem | https://github.com/igas/faker | |
 | I18N/L10N | https://github.com/elixir-lang/gettext | |
+| Authorization | https://github.com/schrockwell/bodyguard | |
 
 ## ES6-like Short Maps
 
