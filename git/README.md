@@ -60,3 +60,9 @@ $ git fetch upstream
 $ git checkout master
 $ git merge upstream/master
 ```
+
+## Utils
+
+### Get current branch name
+
+`git rev-parse --abbrev-ref HEAD`
