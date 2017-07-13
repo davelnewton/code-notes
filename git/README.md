@@ -1,4 +1,28 @@
-# Git Stuff
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Git/GitHub Stuff](#gitgithub-stuff)
+	- [Issues](#issues)
+		- [Searching Issues](#searching-issues)
+		- [Labels](#labels)
+	- [Configuring a fork's remote repo](#configuring-a-forks-remote-repo)
+		- [List current remotes](#list-current-remotes)
+		- [Add upstream remote (the repo you forked)](#add-upstream-remote-the-repo-you-forked)
+		- [Removing remote](#removing-remote)
+		- [Syncing with upstream repo](#syncing-with-upstream-repo)
+
+<!-- /TOC -->
+
+# Git/GitHub Stuff
+
+## Issues
+
+### Searching Issues
+
+https://help.github.com/articles/searching-issues/
+
+### Labels
+
+https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63
 
 ## Configuring a fork's remote repo
 
