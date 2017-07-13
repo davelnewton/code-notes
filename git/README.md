@@ -1,5 +1,6 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Git/GitHub Stuff](#gitgithub-stuff)
 	- [Issues](#issues)
 		- [Searching Issues](#searching-issues)
 		- [Labels](#labels)
@@ -10,6 +11,8 @@
 		- [Syncing with upstream repo](#syncing-with-upstream-repo)
 
 <!-- /TOC -->
+
+# Git/GitHub Stuff
 
 ## Issues
 
