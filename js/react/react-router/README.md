@@ -1,5 +1,8 @@
 # React Router
 
+React Router 4+ is complete different than before. Old tutorials are 100% obsolete.
+
 ## Tutorials
 
-* https://medium.com/@patriciolpezjuri/using-create-react-app-with-react-router-express-js-8fa658bf892d
+* https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+  * https://codepen.io/pshrmn/pen/YZXZqM?editors=0010
