@@ -12,6 +12,7 @@
 | I18N/L10N | https://github.com/elixir-lang/gettext | |
 | Authorization | https://github.com/schrockwell/bodyguard | |
 | Time/Date | https://github.com/bitwalker/timex | |
+| CORS | 
 
 ## ES6-like Short Maps
 
