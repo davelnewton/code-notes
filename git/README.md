@@ -2,6 +2,7 @@
 
 - [Git/GitHub Stuff](#gitgithub-stuff)
 	- [Issues](#issues)
+		- [Closing via comments](#closing-via-comments)
 		- [Searching Issues](#searching-issues)
 		- [Labels](#labels)
 	- [Configuring a fork's remote repo](#configuring-a-forks-remote-repo)
@@ -9,12 +10,30 @@
 		- [Add upstream remote (the repo you forked)](#add-upstream-remote-the-repo-you-forked)
 		- [Removing remote](#removing-remote)
 		- [Syncing with upstream repo](#syncing-with-upstream-repo)
+	- [Utils](#utils)
+		- [Get current branch name](#get-current-branch-name)
 
 <!-- /TOC -->
 
 # Git/GitHub Stuff
 
 ## Issues
+
+### Closing via comments
+
+https://help.github.com/articles/closing-issues-using-keywords/
+
+The following keywords, followed by an issue number, will close the issue:
+
+* close
+* closes
+* closed
+* fix
+* fixes
+* fixed
+* resolve
+* resolves
+* resolved
 
 ### Searching Issues
 
