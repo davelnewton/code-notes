@@ -5,3 +5,8 @@
 # Useful Libraries
 
 * [StringJS](http://stringjs.com/)
+
+| What | Where | More |
+| ---- | ----- | ---- |
+| Strings | http://stringjs.com | |
+| Cookies | 
