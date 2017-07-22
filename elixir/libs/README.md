@@ -1,4 +1,3 @@
-
 # Libraries
 
 * https://elixirnation.io/
@@ -17,6 +16,7 @@
 | Code quality | https://github.com/rrrene/credo | http://credo-ci.org/ |
 | Code quality | https://github.com/rrrene/inch_ex | |
 | CORS | https://github.com/whatyouhide/corsica | |
+| Email | 
 | Fake data/lorem | https://github.com/igas/faker | |
 | GUID | https://github.com/zyro/elixir-uuid | |
 | Hashing | https://github.com/riverrun/comeonin | Docs https://hexdocs.pm/comeonin/api-reference.html |
