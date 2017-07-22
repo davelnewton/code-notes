@@ -1,3 +1,5 @@
+# Elixir Libraries
+
 ## Libraries/Etc.
 
 https://elixirnation.io/
@@ -63,3 +65,12 @@ defmodule TodoList do
 ```elixir
 def some_function(param \\ "default-value"), do: IO.puts(param)
 ```
+
+## ExUnit
+
+http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html#callbacks
+
+## Ex Machina
+
+* Misc tutorial https://hackernoon.com/mixology-exmachina-92a08dc3e954
+* Password hashing in factories: https://github.com/thoughtbot/ex_machina/issues/82

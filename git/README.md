@@ -85,3 +85,23 @@ $ git merge upstream/master
 ### Get current branch name
 
 `git rev-parse --abbrev-ref HEAD`
+
+### List all files in a commit
+
+https://stackoverflow.com/questions/424071/how-to-list-all-the-files-in-a-commit
+
+```
+$ git diff-tree --no-commit-id --name-only -r bd61ad98
+index.html
+javascript/application.js
+javascript/ie6.js
+```
+
+user-facing:
+
+```
+$ git show --pretty="" --name-only bd61ad98    
+index.html
+javascript/application.js
+javascript/ie6.js
+```
