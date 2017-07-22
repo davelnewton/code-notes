@@ -1,7 +1,22 @@
+# Modules
+
+## Aliasing
+
+We can also alias multiple modules in one line:
+
+```elixir
+# This:
+alias Hello.{One,Two,Three}
+
+# Is equivalent to:
+alias Hello.One
+alias Hello.Two
+alias Hello.Three
+```
+
 ## Module Attributes
 
 https://elixir-lang.org/getting-started/module-attributes.html
-
 
 ```elixir
 defmodule TestModuleVals do
