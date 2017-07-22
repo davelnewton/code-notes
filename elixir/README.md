@@ -1,8 +1,19 @@
-# Elixir Libraries
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-## Libraries/Etc.
+- [Elixir](#elixir)
+	- [Articles/Etc.](#articlesetc)
+	- [Introspection](#introspection)
+	- [Observer](#observer)
+		- [List Functions](#list-functions)
+		- [Module Metadata](#module-metadata)
+	- [Ternary](#ternary)
+	- [Requiring files](#requiring-files)
+	- [Connect to Running Elixir App](#connect-to-running-elixir-app)
+	- [Default Args](#default-args)
 
-https://elixirnation.io/
+<!-- /TOC -->
+
+# Elixir
 
 ## Articles/Etc.
 
@@ -65,12 +76,3 @@ defmodule TodoList do
 ```elixir
 def some_function(param \\ "default-value"), do: IO.puts(param)
 ```
-
-## ExUnit
-
-http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html#callbacks
-
-## Ex Machina
-
-* Misc tutorial https://hackernoon.com/mixology-exmachina-92a08dc3e954
-* Password hashing in factories: https://github.com/thoughtbot/ex_machina/issues/82

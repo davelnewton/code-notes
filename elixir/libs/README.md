@@ -1,4 +1,9 @@
-# Useful Libraries
+
+# Libraries
+
+* https://elixirnation.io/
+
+## Misc in-use or to explore
 
 | What | Where | More |
 | ---- | ----- | ---- |
@@ -37,3 +42,12 @@ bar = 69
 ## CSRF
 
 * https://stackoverflow.com/questions/40597248/phoenix-invald-csrf-on-ajax-post
+
+## Ex Machina
+
+* Misc tutorial https://hackernoon.com/mixology-exmachina-92a08dc3e954
+* Password hashing in factories: https://github.com/thoughtbot/ex_machina/issues/82
+
+## ExUnit
+
+http://blog.lucidsimple.com/2016/01/31/exunit-cheat-sheet.html#callbacks
