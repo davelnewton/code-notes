@@ -16,8 +16,9 @@
 | Code quality | https://github.com/rrrene/credo | http://credo-ci.org/ |
 | Code quality | https://github.com/rrrene/inch_ex | |
 | CORS | https://github.com/whatyouhide/corsica | |
-| Email | 
+| Email | https://github.com/thoughtbot/bamboo | |
 | Fake data/lorem | https://github.com/igas/faker | |
+| GraphQL | https://github.com/absinthe-graphql/absinthe | |
 | GUID | https://github.com/zyro/elixir-uuid | |
 | Hashing | https://github.com/riverrun/comeonin | Docs https://hexdocs.pm/comeonin/api-reference.html |
 | HTTP | https://github.com/edgurgel/httpoison | |
