@@ -3,7 +3,7 @@
 ## Packages
 
 | Description  | AtomIO  | GitHub | Local Ref |
-| --|---|-- |
+| --- | --- | --- | --- |
 | Learn shortcuts | [AtomIO](https://atom.io/packages/shortcuts-teacher) | [GitHub](https://github.com/walles/atom-shortcuts-teacher) | [Info](./fold-navigator.md) |
 | Side-by-side diffs | [AtomIO](https://atom.io/packages/split-diff) |P
 
