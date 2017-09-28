@@ -82,6 +82,17 @@ $ git merge upstream/master
 
 ## Utils
 
+### See which branch(es) contain a commit or rev
+
+https://stackoverflow.com/questions/27167584/how-to-get-list-of-all-branches-created-off-a-git-branch-get-all-sub-branches-o
+
+```
+$ git branch --contains $SHA
+$ git branch --contains $BRANCH_NAME
+# Remote
+$ git branch -r --contains $SHA
+```
+
 ### Get current branch name
 
 `git rev-parse --abbrev-ref HEAD`
