@@ -10,4 +10,4 @@
 
 # Development
 
-* [Dash](https://kapeli.com/dash_guide) ash is an API Documentation Browser and Code Snippet Manager
+* [Dash](https://kapeli.com/dash_guide) is an API Documentation Browser and Code Snippet Manager
