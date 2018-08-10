@@ -1,6 +1,7 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Git/GitHub Stuff](#gitgithub-stuff)
+	- [Aliases](#aliases)
 	- [Issues](#issues)
 		- [Closing via comments](#closing-via-comments)
 		- [Searching Issues](#searching-issues)
@@ -11,11 +12,17 @@
 		- [Removing remote](#removing-remote)
 		- [Syncing with upstream repo](#syncing-with-upstream-repo)
 	- [Utils](#utils)
+		- [See which branch(es) contain a commit or rev](#see-which-branches-contain-a-commit-or-rev)
 		- [Get current branch name](#get-current-branch-name)
+		- [List all files in a commit](#list-all-files-in-a-commit)
 
 <!-- /TOC -->
 
 # Git/GitHub Stuff
+
+## Aliases
+
+`git config --global alias.co checkout`
 
 ## Issues
 
@@ -111,7 +118,7 @@ javascript/ie6.js
 user-facing:
 
 ```
-$ git show --pretty="" --name-only bd61ad98    
+$ git show --pretty="" --name-only bd61ad98
 index.html
 javascript/application.js
 javascript/ie6.js
