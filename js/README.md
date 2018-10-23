@@ -12,6 +12,12 @@
 
 # Misc
 
+## Get classname
+
+```js
+foo.constructor.name
+```
+
 ## Logging
 
 ```js
