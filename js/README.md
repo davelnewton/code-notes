@@ -14,6 +14,7 @@
 
 ## Logging
 
+```js
 const logStyles = {
   errorHeader: {
     color:            'black',
@@ -35,3 +36,4 @@ const errorCssText = Object.keys(logStyles.errorText).map(cssProp => `${cssProp}
 
 const tmp = 'Pretend I\'m an error message.'
 console.log(`%c %s %c ${tmp}`, errorCssHeader, '<Something#render() />', errorCssText)
+```
