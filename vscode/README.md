@@ -8,3 +8,5 @@ Fira Code: https://github.com/tonsky/FiraCode
 Insonsolata: Google font
 
 With Fira Code, enable ligatures if that's your thing--I dig it.
+
+## Plugins
