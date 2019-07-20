@@ -7,6 +7,7 @@
   - [Misc](#misc)
     - [Zen Mode](#zen-mode)
   - [Plugins](#plugins)
+    - [Auto Fold](#auto-fold)
     - [Rainbow Indent](#rainbow-indent)
     - [Turbo Console.log()](#turbo-consolelog)
     - [Polacode](#polacode)
@@ -39,6 +40,10 @@ Google font; https://github.com/google/fonts
 `>Toggle Centered Layout`
 
 ## Plugins
+
+### Auto Fold
+
+Folds files as their opened. Nice for files of any size.
 
 ### Rainbow Indent
 
