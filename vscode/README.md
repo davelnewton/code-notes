@@ -1,12 +1,21 @@
 <!-- TOC -->
 
 - [Visual Studio Code](#visual-studio-code)
+  - [Themes](#themes)
+    - [Material Theme](#material-theme)
+    - [Material Icon Theme](#material-icon-theme)
   - [Fonts](#fonts)
     - [Fira Code](#fira-code)
     - [Inconsolata](#inconsolata)
   - [Misc](#misc)
     - [Zen Mode](#zen-mode)
   - [Plugins](#plugins)
+    - [Code Runner](#code-runner)
+    - [Bracket Pair Colorizer](#bracket-pair-colorizer)
+    - [File Utils](#file-utils)
+    - [Git](#git)
+      - [GitLens](#gitlens)
+      - [Git History](#git-history)
     - [Auto Fold](#auto-fold)
     - [Rainbow Indent](#rainbow-indent)
     - [Turbo Console.log()](#turbo-consolelog)
@@ -19,6 +28,17 @@
 # Visual Studio Code
 
 Made the leap from Atom to VSCode; it's just better.
+
+## Themes
+
+### Material Theme
+
+The "Darker" settings are a bit garish for me, and I haven't gotten around to toning
+it down a bit, but it's roughly what I like.
+
+### Material Icon Theme
+
+Again, a bit garish, but overall, lovely.
 
 ## Fonts
 
@@ -40,6 +60,29 @@ Google font; https://github.com/google/fonts
 `>Toggle Centered Layout`
 
 ## Plugins
+
+### Code Runner
+
+It... runs code.
+
+### Bracket Pair Colorizer
+
+We know our code shouldn't be deeply nested, but sometimes it is. This provides
+ambient visual info to help spot blocks.
+
+### File Utils
+
+File ops
+
+### Git
+
+#### GitLens
+
+Does a lot of handy Git stuff.
+
+#### Git History
+
+Log, file history, branch/version compares.
 
 ### Auto Fold
 
