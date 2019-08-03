@@ -9,6 +9,7 @@
 | Strings | http://stringjs.com | |
 | Cookies | https://github.com/reactivestack/cookies | |
 | Validation | https://validatejs.org/#validators-length | |
+| XState | https://xstate.js.org/docs/ | |
 
 # Misc
 
