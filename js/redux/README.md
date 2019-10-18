@@ -4,6 +4,14 @@ Redux is a predictable state container for JavaScript apps.
 * [redux-form](http://redux-form.com/6.1.1/)
 * [redux-persist](https://github.com/rt2zz/redux-persist)
 
+## Redux Starter Kit
+
+* https://redux-starter-kit.js.org
+
+This wraps up a lot of redux stuff into a pretty easy-to-grok set of patterns.
+
+It may not work for everybody, but particularly for getting things running, I've been finding it pretty awesome.
+
 ## Redux Persist
 
 * https://github.com/rt2zz/redux-persist
